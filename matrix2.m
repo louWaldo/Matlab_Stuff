@@ -1,4 +1,5 @@
-% below is the general formula to create an nxn matrix with random values
+%Luis Waldo 
+%below is the general formula to create an nxn matrix with random values
 % between a and b
 % r = a + (b-a).*rand(N,N) 
 % in this case, a = -0.4 and b = 0.8
